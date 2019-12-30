@@ -1,7 +1,8 @@
 # classify10items
 
 1. 개요 
-    10개의 item을 pytorch로 cnn학습을 시키고, 학습된 결과물인 pt화일을 추출하여 향후에 웹에서 inference가 잘 되는지 테스트를 진행한다.
+    10개의 item을 pytorch로 cnn학습을 시키고, 학습된 결과물인 pt화일을 추출하여 
+    향후에 웹에서 inference가 잘 되는지 테스트를 진행한다.
     10개의 item : ant, bear, bee, cat, dog, horse, lion, monkey, pig, spider
 2. 작업 순서
    ㄱ. 웹을 통해서 이미지 획득작업을 진행한다.
